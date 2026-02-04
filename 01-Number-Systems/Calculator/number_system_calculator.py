@@ -1,5 +1,5 @@
 
-Paste this **complete and clean version** 👇
+Paste this **complete and clean version** 
 
 ```python
 def binary_to_decimal(b):
