@@ -1,7 +1,3 @@
-
-Paste this **complete and clean version** 
-
-```python
 def binary_to_decimal(b):
     return int(b, 2)
 
